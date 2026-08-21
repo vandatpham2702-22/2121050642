@@ -1,4 +1,4 @@
-# 2121050642 - # Bài 1
+# 2121050642 - # Bài 1.1
 ## Cài đặt
 
 - GitHub: https://github.com/
@@ -19,12 +19,12 @@ git commit -m "Nội dung"
 ```
 
 ### B3. Đồng bộ từ GitHub
-```bash
+
 git pull
-```
+
 
 ### B4. Đẩy lên GitHub
 
 ```bash
 git push
-```
+```  
