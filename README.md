@@ -18,7 +18,7 @@ git add .
 git commit -m "Nội dung"
 ```
 
-### B3. Đồng bộ từ GitHub (nếu cần)
+### B3. Đồng bộ từ GitHub
 ```bash
 git pull
 ```
