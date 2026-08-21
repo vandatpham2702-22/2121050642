@@ -1,4 +1,4 @@
-# 2121050642 - Bài 1
+# 2121050642 - # Bài 1
 ## Cài đặt
 
 - GitHub: https://github.com/
